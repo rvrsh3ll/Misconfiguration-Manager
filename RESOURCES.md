@@ -30,6 +30,7 @@ The following labs are options as well, but do not separate the site database or
 - [Deobfuscator Implementation in Python, by @SkelSec](https://github.com/xpn/sccmwtf/pull/3)
 - [Defending the Castle, by Tom Degreef and Kim Oppalfens](https://www.oscc.be/sccm/Defending-the-Castle/)
 - [Exploring SCCM by Unobfuscating Network Access Accounts, by Adam Chester (@_xpn_)](https://blog.xpnsec.com/unobfuscating-network-access-accounts/)
+- [From Domain User to Enterprise Control: Microsoft Configuration Manager RCE 0-Day Exploit Chain (SCCM 𝗖𝗩𝗘-𝟮𝟬𝟮𝟲-𝟰𝟳𝟯𝟬𝟭), by Omri Baso](https://medium.com/@omribaso/from-domain-user-to-enterprise-control-microsoft-configuration-manager-rce-0-day-exploit-chain-393c63c680ca)
 - [Get Secrets via PXE Media Certificates SharpSCCM PR, by Carsten Sandker (@0xcsandker)](https://github.com/Mayyhem/SharpSCCM/pull/28)
 - [Grow Your Own SCCM Lab, by @HTTP418](https://http418infosec.com/grow-your-own-sccm-lab)
 - [Hierarchy Takeover without SOCKS, by Chris Thompson (@_Mayyhem)](https://twitter.com/_Mayyhem/status/1700602445603209236)
