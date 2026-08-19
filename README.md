@@ -29,7 +29,7 @@
 3. Alternatively, run [MisconfigurationManager.ps1](https://github.com/subat0mik/Misconfiguration-Manager/blob/main/MisconfigurationManager.ps1)
     - Refer to this [walkthrough](https://posts.specterops.io/rooting-out-risky-sccm-configs-with-misconfiguration-manager-0beecaab1af3)
 4. Implement mitigations for identified misconfigurations
-    - Refer to this [walkthrough](https://github.com/subat0mik/Misconfiguration-Manager/blob/main/presentations/SO-CON%202025%20-%20Admins%20Guide%20to%20Preventing%20SCCM%20Attacks.pdf) (or [this recording](https://www.youtube.com/watch?v=Rc2J6fmhcJ4))
+    - Refer to this [walkthrough](https://github.com/subat0mik/Misconfiguration-Manager/blob/main/presentations/The_Admin's_Guide_to_Preventing_SCCM_Attacks.pdf) (or [this recording](https://www.youtube.com/watch?v=Rc2J6fmhcJ4))
 
 # Overview
 This repository serves as a central knowledge base for all known Microsoft Configuration Manager (a.k.a. MCM, ConfigMgr, System Center Configuration Manager, or SCCM) tradecraft and associated defensive and hardening guidance. Our goal is to help demystify SCCM tradecraft and simplify SCCM attack path management for defenders while also educating offensive security professionals on this nebulous attack surface. Designed to go beyond the static nature of whitepapers, this living repository documents known SCCM misconfigurations and their abuses and encourages ongoing contributions from the community to enhance its relevance and utility.
