@@ -57,6 +57,7 @@ The following labs are options as well, but do not separate the site database or
 - [Push Comes to Shove: Exploring SCCM Attack Paths, by Brandon Colley (@TechBrandon)](https://www.youtube.com/watch?v=qLBJJPUGk9U)
 - [Push Comes to Shove Part 1, by Brandon Colley (@TechBrandon)](https://www.hub.trimarcsecurity.com/post/push-comes-to-shove-exploring-the-attack-surface-of-sccm-client-push-accounts)
 - [Push Comes to Shove Part 2, by Brandon Colley (@TechBrandon)](https://www.hub.trimarcsecurity.com/post/push-comes-to-shove-bypassing-kerberos-authentication-of-sccm-client-push-accounts)
+- [PXEHacker, by Crusher (@chryzsh)](https://github.com/chryzsh/PXEHacker)
 - [PXEThief, by Christopher Panayi](https://github.com/MWR-CyberSec/PXEThief)
 - [pxethiefy, by Carsten Sandker (@0xcsandker)](https://github.com/sse-secure-systems/Active-Directory-Spotlights/tree/master/SCCM-MECM/pxethiefy)
 - [Red Team Ops SCCM Module, by Zero Point Security (@zeropointsecltd)](https://twitter.com/zeropointsecltd/status/1707385897979654508)
